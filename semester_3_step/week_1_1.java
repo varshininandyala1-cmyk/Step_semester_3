@@ -1,6 +1,6 @@
 package semester_3_step;
 
-import java.util.Scanner;
+Rimport java.util.Scanner;
 import java.util.Random;
 
 public class week_1_1 {
